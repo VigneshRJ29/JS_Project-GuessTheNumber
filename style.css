@@ -1,0 +1,41 @@
+body{
+    margin-top: 200px;
+    background-image: url("https://media.istockphoto.com/id/184601291/photo/xxxl-dark-concrete.jpg?s=612x612&w=0&k=20&c=2UaAUWtEf6YvyliWImDML-s1GSfZw5BlEvg4IyWFedk=");
+}
+h1,h3{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+#guessinput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 43%;
+    height: 30px;
+    border-color: rgb(50, 174, 205);
+    border-radius: 20px;
+    
+}
+#btn{
+    margin-left: 48%;
+    margin-top: 20px;
+    background-color: rgb(107, 17, 134);
+    color: cornsilk;
+
+}
+h1{
+    font-size: 35px;
+}
+#msg{
+    font-style: oblique;
+    margin-right: 30px;
+}
+img{
+    height: 20px;
+    width: 20px;
+    
+}
+
